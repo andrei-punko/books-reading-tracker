@@ -2,6 +2,7 @@
 
 - 📚 [Backlog](backlog.md)
 - 📖 [In progress](in-progress.md)
+- ✅ [Done in 2026](done-2026.md)
 - ✅ [Done in 2025](done-2025.md)
 - ✅ [Done in 2024](done-2024.md)
 - ✅ [Done in 2023](done-2023.md)
