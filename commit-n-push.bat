@@ -1,6 +1,6 @@
 
 git add --all
-git commit -m "Add content"
+git commit -m "Update content to latest"
 
 git fetch
 git rebase origin/master
